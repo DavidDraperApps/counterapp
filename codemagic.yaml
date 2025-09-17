@@ -18,7 +18,7 @@ workflows:
         XCODE_PROJECT: "chicksavings.xcodeproj"
         # Если перейдёшь на CocoaPods, вместо PROJECT используй:
         # XCODE_WORKSPACE: "chicksavings.xcworkspace"
-        XCODE_SCHEME: “chicksavings”
+        XCODE_SCHEME: "chicksavings"
         APP_STORE_APPLE_ID: 6752664087
 
     cache:
